@@ -1,6 +1,8 @@
 # Tcc_Lionnez_Sistema
 Sistema ZooCuritiba - Tcc Lionnez.
 
+Link do vídeo:  
+
 ## Como acessar:
 1. Execute o script do banco de dados no MySql Workbench :
 Scripts_BD > dbZoo_Completo.sql
